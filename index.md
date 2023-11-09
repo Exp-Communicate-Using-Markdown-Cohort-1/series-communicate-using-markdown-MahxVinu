@@ -12,3 +12,6 @@ int main()
   return 0;
 }
 ```
+- [x] Start a github account
+- [x] Complete a begginer course
+- [ ] Finish all github courses
